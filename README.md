@@ -7,3 +7,5 @@ something other than a man. By analyzing the plot descriptions, I aimed to under
 good and bad female representation differ in the words they use. Even though the Bechdel test isn’t the sole
 indicator of female representation in films, this analysis can provide insights into how women are portrayed
 in movies and how their representation can impact the way we perceive and value women in society.
+
+The datasets were obtained from a study conducted by FiveThirtyEight on Hollywood's gender bias. The datasets can be downloaded from the following Github repository https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-03-09  
